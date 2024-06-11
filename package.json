@@ -23,9 +23,6 @@
     "url": "https://github.com/Glenn-2k/environment-test/issues"
   },
   "homepage": "https://github.com/Glenn-2k/environment-test#readme",
-  "dependencies": {
-    "one-liner-joke": "^1.2.2"
-  },
   "devDependencies": {
     "prettier": "^3.3.2"
   }
