@@ -1,3 +1,5 @@
+import joker from 'one-liner-joker';
+
 export function dadJoke() {
   return new Promise(function (resolve, reject) {
     try {
