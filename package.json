@@ -24,7 +24,9 @@
   },
   "homepage": "https://github.com/Glenn-2k/environment-test#readme",
   "devDependencies": {
-    "eslint": "^9.4.0",
+    "@eslint/js": "^8.57.0",
+    "eslint": "^8.57.0",
+    "globals": "^15.4.0",
     "prettier": "^3.3.2"
   },
   "dependencies": {
